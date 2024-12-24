@@ -24,6 +24,8 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>We need access to the camera to allow users to add profile images.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
@@ -45,5 +47,15 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<key>FacebookAppID</key>
+		<string></string>		<!-- Replace with your Facebook App ID -->
+
+		<key>FacebookClientToken</key>
+		<string></string>		<!-- Replace with your Facebook Client Token -->
+
+		<key>FacebookDisplayName</key>
+		<string>fairshare</string>		<!-- Replace with your Facebook App name -->
+
 </dict>
 </plist>

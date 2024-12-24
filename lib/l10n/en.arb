@@ -1,0 +1,49 @@
+{
+  "@@locale": "en",
+
+  "title": "fairshare",
+
+  "@_GENERAL": "--------------------------------------------------------------------------------------------",
+
+  "searchByCountryNameOrDialCode": "Search by country name or dial code",
+  "justPatchingThingsUp": "Just patching things up. This'll be over in a jiffy.",
+  "or": "Or",
+  "next": "Next",
+  "save": "Save",
+  "yes": "Yes",
+  "no": "No",
+  "customer": "Customer",
+  "guest": "Guest",
+  "confirm": "Confirm",
+  "edit": "Edit",
+  "signOut": "Sign Out",
+  "noDataAvailable": "No data available",
+  "email": "Email",
+  "typeHere": "Type here...",
+  "submit": "Submit",
+  "seeMore": "See more",
+  "seeLess": "See less",
+  "uploadPicture": "Upload Picture",
+
+  "@_AUTH": "--------------------------------------------------------------------------------------------",
+
+  "typeYourEmail": "Type your email",
+  "typeYourPassword": "Type your password",
+  "enterYourEmailAddress": "Enter your email address",
+  "pleaseEnterYourEmailAddress": "Please enter your email address",
+  "pleaseEnterYourPassword": "Please enter your password",
+  "pleaseEnterAValidEmailAddress": "Please enter a valid email address",
+
+  "@_LOGIN": "--------------------------------------------------------------------------------------------",
+  
+  "signIn": "Sign In",
+  "signInWithApple": "Sign in with Apple",
+  "signInWithFB": "Sign in with Facebook",
+  "signInWithGoogle": "Sign in with Google",
+
+  "@_REGISTER": "--------------------------------------------------------------------------------------------",
+  
+  "signUpWithApple": "Sign up with Apple",
+  "signUpWithFB": "Sign up with Facebook",
+  "signUpWithGoogle": "Sign up with Google"
+}
